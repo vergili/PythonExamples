@@ -37,3 +37,6 @@ http://freepythontips.wordpress.com/2013/08/07/the-self-variable-in-python-expla
 #### zip 
 http://stackoverflow.com/questions/13704860/zip-lists-in-python
 
+#### Method overriding
+http://lgiordani.com/blog/2014/05/19/method-overriding-in-python/
+
