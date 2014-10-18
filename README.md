@@ -40,3 +40,9 @@ http://stackoverflow.com/questions/13704860/zip-lists-in-python
 #### Method overriding
 http://lgiordani.com/blog/2014/05/19/method-overriding-in-python/
 
+
+#### Abstract class - method
+    Difference fron method overriding ( half implementation an abstract method and half in overriding method )
+http://pymotw.com/2/abc/
+
+
