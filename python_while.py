@@ -5,7 +5,6 @@ while True:
 
     if a == "key":
       print a
-      return false
     
       
       

@@ -25,3 +25,11 @@ http://www.tutorialspoint.com/python/python_pass_statement.htm
 
 ##### @classmethod vs @staticmethod  
 http://stackoverflow.com/questions/136097/what-is-the-difference-between-staticmethod-and-classmethod-in-python
+http://www.pythoncentral.io/difference-between-staticmethod-and-classmethod-in-python/
+
+#### self
+http://freepythontips.wordpress.com/2013/08/07/the-self-variable-in-python-explained/
+
+#### zip 
+http://stackoverflow.com/questions/13704860/zip-lists-in-python
+
