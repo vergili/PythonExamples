@@ -1,6 +1,6 @@
 ### Some usefull links 
 
-#### DataBase Comparison
+##### DataBase Comparison
 http://db-engines.com/en/ranking
 
 
@@ -31,13 +31,13 @@ http://www.tutorialspoint.com/python/python_pass_statement.htm
 http://stackoverflow.com/questions/136097/what-is-the-difference-between-staticmethod-and-classmethod-in-python
 http://www.pythoncentral.io/difference-between-staticmethod-and-classmethod-in-python/
 
-#### self
+##### self
 http://freepythontips.wordpress.com/2013/08/07/the-self-variable-in-python-explained/
 
-#### zip 
+##### zip 
 http://stackoverflow.com/questions/13704860/zip-lists-in-python
 
-#### Method overriding
+##### Method overriding
 http://lgiordani.com/blog/2014/05/19/method-overriding-in-python/
 
 
