@@ -1,5 +1,9 @@
 ### Some usefull links 
 
+#### DataBase Comparison
+http://db-engines.com/en/ranking
+
+
 ##### Data Structurs
 https://docs.python.org/2/tutorial/datastructures.html
 
