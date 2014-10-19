@@ -47,3 +47,10 @@ http://lgiordani.com/blog/2014/05/19/method-overriding-in-python/
 http://pymotw.com/2/abc/
 
 
+##### sftp python connection
+http://stackoverflow.com/questions/11925895/what-is-the-difference-between-calling-open-sftp-locally-and-via-a-separate-fu
+http://stackoverflow.com/questions/1596963/read-a-file-from-server-with-ssh-using-python
+
+
+
+
