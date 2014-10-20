@@ -52,5 +52,9 @@ http://stackoverflow.com/questions/11925895/what-is-the-difference-between-calli
 http://stackoverflow.com/questions/1596963/read-a-file-from-server-with-ssh-using-python
 
 
+##### Ascii char 
+http://stackoverflow.com/questions/227459/ascii-value-of-a-character-in-python
+
+
 
 
